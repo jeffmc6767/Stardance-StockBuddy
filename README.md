@@ -5,15 +5,7 @@ Here are the working commmands:
 **/stock-price** 
   gets current stock price
 **/stock-info** 
-EXAMPLE: 
-   Apple Inc. (AAPL)
-  Sector: TECHNOLOGY
-  Market Cap: 4644435657000
-  P/E Ratio: 38.24
-  52 Week High: $317.4
-  52 Week Low: $200.7
-  Powered by StockBuddy
-
+  Gets basic information on the stock
 **/stock-help**:
   Shows all stock commands
 
