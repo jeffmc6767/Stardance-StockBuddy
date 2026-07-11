@@ -3,11 +3,8 @@ This is a custom slackbot that works by pulling information from Alpha Vantage t
 Here are the working commmands:
 
 **/stock-price** 
-  gets current stock price
 **/stock-info** 
-  Gets basic information on the stock
 **/stock-help**:
-  Shows all stock commands
 
 
 
